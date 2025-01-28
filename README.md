@@ -14,3 +14,5 @@ This is the public portfolio of David Riviera ([LinkedIn](https://www.linkedin.c
 
 - ajax.php
   - JSON response to /js/ajax.js request
+- recaptcha.php
+  - function to verify the Google reCaptcha token using a secret key
