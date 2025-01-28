@@ -3,7 +3,7 @@
 This is the public portfolio of David Riviera ([LinkedIn](https://www.linkedin.com/in/djer/))
 
 ## Github
-- Signed Commits (this is a test)
+- Signed Commits (this is a test, too)
 
 ## Javascript
 
