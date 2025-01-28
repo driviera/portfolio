@@ -7,5 +7,10 @@ This is the public portfolio of David Riviera ([LinkedIn](https://www.linkedin.c
 
 ## Javascript
 
-- AJAX 
+- ajax.js
   - A simple call using XMLHttpRequest
+
+## PHP
+
+- ajax.php
+  - JSON response to /js/ajax.js request
