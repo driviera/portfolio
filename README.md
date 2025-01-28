@@ -16,3 +16,5 @@ This is the public portfolio of David Riviera ([LinkedIn](https://www.linkedin.c
   - JSON response to /js/ajax.js request
 - recaptcha.php
   - function to verify the Google reCaptcha token using a secret key
+- sql.php
+  - various PHP mysqli snippets demonstrating prepared SQL
